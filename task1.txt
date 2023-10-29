@@ -1,0 +1,9 @@
+GET/users-List all users
+Get/api/users/1-get the users with id 1
+POST/api/users-create new user
+Patch/api/users/1-edit the user with id 1
+Delete/api/users/1- delete users with id-1 
+
+DYNAMIC PATH PARAMETERS
+GET/api/users/:id
+:id-variable | DYNAMIC
